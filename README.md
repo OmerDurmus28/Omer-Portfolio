@@ -38,6 +38,10 @@
  x
   🔗 [View Project]
 
+### 🟣Structured Query Language (SQL) Projects 
+ x
+  🔗 [View Project]
+  
 ---
 
 ## 📚 Published Articles
@@ -56,6 +60,27 @@
 -  🔗 [Read Article]
 
 ---
+## 🧾 Qualifications and Certifications
+
+- **[Quantitative Research Methods](https://www.uni-koeln.de/)** – *University of Cologne*  
+  This seminar consisted of a lecture and a laboratory session within the core module of the study program.
+  Learning objectives: Analytical thinking, hypothesis testing, statistical reasoning, statistical analysis by using R: Descriptive Statistics, T-Tests, Regressions(Logistic, Multivariate Regressions) Chi-Square Test, ANOVA. 
+
+- **[Programming for Data Analytics (RStudio)](https://www.uni-koeln.de/)** – *University of Cologne*  
+  Applied R for data manipulation, visualization (`ggplot2`, `dplyr`), and reproducible workflows.
+
+- **[Data Management and Visualization (RStudio)](https://www.uni-koeln.de/)** – *University of Cologne*  
+  Focused on data cleaning, tidyverse, visualization types, and building reproducible reports with R Markdown.
+
+- **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – *Microsoft via Coursera*  
+  Advanced spreadsheet functions, data analysis tools, and Excel productivity skills.
+
+- **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – *Microsoft via Coursera*  
+  Hands-on experience with DAX, Power Query, interactive dashboards, and report automation.
+
+- **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – *University of California, Davis via Coursera*  
+  Mastered SELECT statements, joins, filtering, aggregation, and writing queries for analysis.
+
 ## 🤳 Connect with Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
