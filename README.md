@@ -1,8 +1,7 @@
-<h1>Hi, I'm Ömer!  
-  M.A. Student in Political Science | Data Analysis Enthusiast 👨‍💻  
-</h1>
+# Hi, I'm Ömer!  
+**M.A. Student in Political Science | Data Analysis Enthusiast 👨‍💻**  
 
-🔍 Welcome to my GitHub portfolio, where I share my academic and practical work involving **data analysis**, **visualization**, and **social science research**.
+🔍 Welcome to my GitHub portfolio, where I share academic and practical work in **data analysis**, **visualization**, and **social science research**.
 
 ---
 
@@ -11,98 +10,103 @@
 ### 🟢 R Studio Projects
 
 - **Exploratory Data Analysis on Ryanair Flight Reviews**  
-  -In this project, I analyzed customer review data from Ryanair to figure out what drives satisfaction. I used R to clean and organize the data, then ran statistical tests like t-tests and multivariate linear regression to explore how different factors (like seat comfort, cabin service, and overall experience) influenced customer ratings. I visualized the results using `ggplot2`, and tied everything together with `dplyr`, `broom`, `car`, and a few other packages to keep the workflow clean and reproducible.  
+  In this project, I explored customer review data from Ryanair to understand what drives passenger satisfaction.  
+  • Cleaned and structured the data using `dplyr`, `tidyr`, and `readr`  
+  • Performed t-tests and multivariate linear regression to identify satisfaction patterns  
+  • Visualized insights with `ggplot2`, and wrapped the workflow using `broom`, `car`, and `psych`  
   🔗 [View Project]
 
 - **Unraveling Life Satisfaction in Türkiye**  
-  -Using the Türkiye sample from the World Values Survey, I built a model to understand the main drivers of life satisfaction. After filtering and cleaning the data, I ran multivariate regressions to identify how variables like trust in institutions, religious attendance, education level, and income impact well-being.  In the analysis, I utilized `tidyverse`, `ggplot2`, `haven`, and `sjPlot` to transform the data, build the models, and create clean visual outputs that made the findings easy to interpret.  
+  This study focuses on identifying the key determinants of life satisfaction in Türkiye using data from the World Values Survey.  
+  • Filtered and cleaned Türkiye’s sample using `haven`, `labelled`, and `tidyverse`  
+  • Built multivariate regression models to analyze the impact of variables like income, education, and institutional trust  
+  • Visualized findings using `sjPlot` and `ggplot2`  
   🔗 [View Project]
 
 - **Fuel Efficiency Analysis Using IEA Data**  
-  -I worked with fuel consumption data from the International Energy Agency to compare efficiency across car brands like BMW, Mercedes, Audi, and Honda. I focused on brand-level differences, fuel types, and trends across categories. The project involved a lot of data wrangling using `dplyr` and `readr`, then reshaping with `forcats` and visualizing with `ggplot2`. I also applied `scales` to make comparisons more readable and visually consistent.  
+  In this assignment, I worked with fuel efficiency data from the International Energy Agency to compare performance across top car brands.  
+  • Analyzed consumption patterns for brands like BMW, Mercedes, Audi, and Honda  
+  • Cleaned and transformed data using `dplyr`, `readr`, and `janitor`  
+  • Created comparative visuals using `ggplot2`, enhanced with `forcats` and `scales`  
   🔗 [View Project]
 
-#  🟠 Excel Sales Report – Honor Assignment
-## 🧾 Overview: 
--This is the final **Honor Assignment** for the **"Work Smarter with Excel"** certification course by **Microsoft** on Coursera. 
--In this project, I have created a sales report from raw data using Excel features. The assignment simulates a real-world business case to demonstrate data analysis, visualization, and report automation skills.
-## ✅ Key Tasks Performed
-- Organized sales data by month and region
-- Calculated commissions using IF logic and named ranges
-- Created region-specific sheets (North, South, East, West)
-- Applied conditional formatting to highlight top 5 sales
-- Used `SUMIF` to calculate totals per employee
-- Built a PivotTable and interactive slicers in Sales Analysis sheet
-- Imported and transformed CSV data (New Staff)
-- Designed a dashboard-style Cover Sheet with hyperlinks
-- Added a formatted chart with sales vs. commission data
---- 
-  🔗 [View File]
+
+### 🟠 Excel Sales Report – Honor Assignment  
+**Course:** Work Smarter with Excel by Microsoft (Coursera)  
+Created a complete sales report from raw data, simulating a real-world business scenario.  
+- Used IF logic, named ranges, and `SUMIF` to calculate commissions  
+- Built region-specific sheets and applied conditional formatting  
+- Designed PivotTables with slicers and a dashboard-style cover sheet  
+- Imported external CSV data and built interactive reports
+🔗 [View Report](your-report-link)
+---
 
 ### 🟡MS Power BI Projects
 - **Sales & Customer Insights Dashboard**  
--In this anaylsis, I visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
+In this anaylsis, I visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
   🔗 [View Report](./Power%20BI%202.pdf)
 
 - **Marketing Performance by Region & Platform**  
- -This project presents an analysis of leads by month, region, and social media platform along with filtering, sorting, and matrix visuals to track campaign effectiveness.  
+  This project presents an analysis of leads by month, region, and social media platform along with filtering, sorting, and matrix visuals to track campaign effectiveness.  
   🔗 [View Report](./Sorting&Filtering%20Power%20BI.pdf)
 
-  
+---
 ### 🟣 SQL for Data Science – USDA Agricultural Data Insights
--In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
+In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
 Performed tasks: 
 - Queried total milk, cheese, coffee, honey, and yogurt production by year and state  
-- Used `JOIN`, `WHERE`, `IN`, `GROUP BY`, and `CAST` clauses to handle multi-table queries  
+- Used JOIN, WHERE, IN, GROUP BY, and CAST clauses to handle multi-table queries  
 - Identified production gaps and regional differences  
 - Applied filtering logic to support decision-making in agricultural departments
 
-🔗 [View Project Report](./SQL_for_Data_Science_Project.pdf)  
+ 🔗 [View Report](your-report-link)
+
 ---
 
 ## 📚 Published Articles
+
 - **"Unraveling Life Satisfaction in Türkiye: A Multifaceted Analysis of Individual and Societal Factors"**  
-  10th 360° With Youth International Student Congress, Manisa Celal Bayar University
+  *10th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
   🔗 [Read Article](https://doi.org/10.xxxxx/jia2024)
 
 - **"Realpolitik Altered the Course: Changing Foreign Policy Preferences and Public Opinion in Sweden and Finland Due to the Russian Invasion of Ukraine"**  
-  9th 360° With Youth International Student Congress, Manisa Celal Bayar University
+  *9th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
   🔗 [Read Article](https://doi.org/10.xxxxx/ppq2023)
 
 ---
 
 ## 🌱 Currently Working On
-- Master’s thesis exposé on **China's Digital Silkroad Investments Effects on Turkey's Cyber Security and NATO Commitments**
--  🔗 [Read Article]
+
+- Master’s thesis exposé: **China's Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments**
 
 ---
+
 ## 🧾 Qualifications and Certifications
 
-- **[Quantitative Research Methods](https://www.uni-koeln.de/)** – *University of Cologne*  
-  This seminar consisted of a lecture and a laboratory session within the core module of the study program.
-  Learning objectives: Analytical thinking, hypothesis testing, statistical reasoning, statistical analysis by using R: Descriptive Statistics, T-Tests, Regressions(Logistic, Multivariate Regressions) Chi-Square Test, ANOVA. 
+- **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – Microsoft (Coursera)  
+  Mastered advanced functions, data analysis tools, and automation techniques.
 
-- **[Programming for Data Analytics (RStudio)](https://www.uni-koeln.de/)** – *University of Cologne*  
-  Applied R for data manipulation, visualization (`ggplot2`, `dplyr`), and reproducible workflows.
+- **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
+  Applied DAX, Power Query, and dashboard design for business insights.
 
-- **[Data Management and Visualization (RStudio)](https://www.uni-koeln.de/)** – *University of Cologne*  
-  Focused on data cleaning, tidyverse, visualization types, and building reproducible reports with R Markdown.
+- **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis (Coursera)  
+  Practiced real SQL queries involving filtering, aggregation, and joins across complex datasets.
 
-- **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – *Microsoft via Coursera*  
-  Advanced spreadsheet functions, data analysis tools, and Excel productivity skills.
+- **[Quantitative Research Methods](https://www.uni-koeln.de/)** – University of Cologne  
+  Focused on hypothesis testing, statistical analysis with R, and methods like T-tests, regression (logistic & multivariate), Chi-Square, and ANOVA.
 
-- **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – *Microsoft via Coursera*  
-  Hands-on experience with DAX, Power Query, interactive dashboards, and report automation.
+- **[Programming for Data Analytics (RStudio)](https://www.uni-koeln.de/)** – University of Cologne  
+  This course provided an extensive insights and practical skills on data manipulation, visualization, and reproducible workflows using `ggplot2`, `dplyr`.
 
-- **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – *University of California, Davis via Coursera*  
-  Mastered SELECT statements, joins, filtering, aggregation, and writing queries for analysis.
+- **[Data Management and Visualization (RStudio)](https://www.uni-koeln.de/)** – University of Cologne  
+  This seminar primarily focused on data cleaning, tidyverse tools, visual storytelling, API & Web scraping, and R Markdown reporting.
+
 
 ## 🤳 Connect with Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
 
 <br/><br/>
-
 <!--
 **OmerDurmus28/OmerDurmus28** is a ✨ highlighted ✨ repo showcasing my academic and analytical work.
 -->
