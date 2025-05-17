@@ -9,25 +9,23 @@
 ## 📊 Data Projects
 
 ### 🟢 R Studio Projects
+
 - **Exploratory Data Analysis on Ryanair Flight Reviews**  
-  Statistical analysis & visualization of customer satisfaction using R (ggplot2, dplyr, tidyr, readr, broom, stats, ggthemes, car, psych). Applied t-tests and multivariate linear regression to explore satisfaction patterns. 
+  -In this project, I analyzed customer review data from Ryanair to figure out what drives satisfaction. I used R to clean and organize the data, then ran statistical tests like t-tests and multivariate linear regression to explore how different factors (like seat comfort, cabin service, and overall experience) influenced customer ratings. I visualized the results using `ggplot2`, and tied everything together with `dplyr`, `broom`, `car`, and a few other packages to keep the workflow clean and reproducible.  
   🔗 [View Project]
 
--  **Unraveling Life Satisfaction in Türkiye**  
-  Analyzed World Values Survey (WVS) data using R Studio. Extracted Türkiye's sample, performed data cleaning and wrangling, and conducted multivariate regression analysis to identify key determinants of life satisfaction in Türkiye.  
-  **Packages used:** `tidyverse`, `dplyr`, `tidyr`, `ggplot2`, `haven`, `car`,`sjPlot`  
-  🔗 [View Project]()
+- **Unraveling Life Satisfaction in Türkiye**  
+  -Using the Türkiye sample from the World Values Survey, I built a model to understand the main drivers of life satisfaction. After filtering and cleaning the data, I ran multivariate regressions to identify how variables like trust in institutions, religious attendance, education level, and income impact well-being.  In the analysis, I utilized `tidyverse`, `ggplot2`, `haven`, and `sjPlot` to transform the data, build the models, and create clean visual outputs that made the findings easy to interpret.  
+  🔗 [View Project]
 
 - **Fuel Efficiency Analysis Using IEA Data**  
-  Conducted a comparative analysis of fuel efficiency across major car brands (BMW, Mercedes, Audi, Honda, etc.) using data from the International Energy Agency (IEA). Performed data wrangling, visualization, and summary statistics to assess performance and sustainability trends.
-Packages used: dplyr, readr, ggplot2, forcats, scales
-🔗 [View Project]
+  -I worked with fuel consumption data from the International Energy Agency to compare efficiency across car brands like BMW, Mercedes, Audi, and Honda. I focused on brand-level differences, fuel types, and trends across categories. The project involved a lot of data wrangling using `dplyr` and `readr`, then reshaping with `forcats` and visualizing with `ggplot2`. I also applied `scales` to make comparisons more readable and visually consistent.  
+  🔗 [View Project]
 
 #  🟠 Excel Sales Report – Honor Assignment
 ## 🧾 Overview: 
-This is the final **Honor Assignment** for the **"Work Smarter with Excel"** certification course by **Microsoft** on Coursera.
-In this project, I have created a sales report from raw data using Excel features. The assignment simulates a real-world business case to demonstrate data analysis, visualization, and report automation skills.
-
+-This is the final **Honor Assignment** for the **"Work Smarter with Excel"** certification course by **Microsoft** on Coursera. 
+-In this project, I have created a sales report from raw data using Excel features. The assignment simulates a real-world business case to demonstrate data analysis, visualization, and report automation skills.
 ## ✅ Key Tasks Performed
 - Organized sales data by month and region
 - Calculated commissions using IF logic and named ranges
@@ -43,17 +41,16 @@ In this project, I have created a sales report from raw data using Excel feature
 
 ### 🟡MS Power BI Projects
 - **Sales & Customer Insights Dashboard**  
-  Visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
+-In this anaylsis, I visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
   🔗 [View Report](./Power%20BI%202.pdf)
 
 - **Marketing Performance by Region & Platform**  
-  Analyzed leads by month, region, and social media platform. Applied filtering, sorting, and matrix visuals to track campaign effectiveness.  
+ -This project presents an analysis of leads by month, region, and social media platform along with filtering, sorting, and matrix visuals to track campaign effectiveness.  
   🔗 [View Report](./Sorting&Filtering%20Power%20BI.pdf)
 
   
-
 ### 🟣 SQL for Data Science – USDA Agricultural Data Insights
-In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
+-In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
 Performed tasks: 
 - Queried total milk, cheese, coffee, honey, and yogurt production by year and state  
 - Used `JOIN`, `WHERE`, `IN`, `GROUP BY`, and `CAST` clauses to handle multi-table queries  
@@ -65,17 +62,17 @@ Performed tasks:
 
 ## 📚 Published Articles
 - **"Unraveling Life Satisfaction in Türkiye: A Multifaceted Analysis of Individual and Societal Factors"**  
-  Journal of International Affairs, 2024  
+  10th 360° With Youth International Student Congress, Manisa Celal Bayar University
   🔗 [Read Article](https://doi.org/10.xxxxx/jia2024)
 
 - **"Realpolitik Altered the Course: Changing Foreign Policy Preferences and Public Opinion in Sweden and Finland Due to the Russian Invasion of Ukraine"**  
-  Policy and Politics Quarterly, 2023  
+  9th 360° With Youth International Student Congress, Manisa Celal Bayar University
   🔗 [Read Article](https://doi.org/10.xxxxx/ppq2023)
 
 ---
 
 ## 🌱 Currently Working On
-- Master’s thesis on **China's Digital Silkroad Investments Effects on Turkey's Cyber Security and NATO Commitments**
+- Master’s thesis exposé on **China's Digital Silkroad Investments Effects on Turkey's Cyber Security and NATO Commitments**
 -  🔗 [Read Article]
 
 ---
