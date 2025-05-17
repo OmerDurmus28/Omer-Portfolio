@@ -10,38 +10,57 @@
 
 ### 🟢 R Studio Projects
 - **Exploratory Data Analysis on Ryanair Flight Reviews**  
-  Statistical analysis & visualization of customer satisfaction using `ggplot2`, `dplyr`, and `t-tests`.  
+  Statistical analysis & visualization of customer satisfaction using R (ggplot2, dplyr, tidyr, readr, broom, stats, ggthemes, car, psych). Applied t-tests and multivariate linear regression to explore satisfaction patterns. 
   🔗 [View Project]
 
 -  **Unraveling Life Satisfaction in Türkiye**  
   Analyzed World Values Survey (WVS) data using R Studio. Extracted Türkiye's sample, performed data cleaning and wrangling, and conducted multivariate regression analysis to identify key determinants of life satisfaction in Türkiye.  
-  **Packages used:** `tidyverse`, `dplyr`, `tidyr`, `ggplot2`, `haven`, `labelled`, `car`, `lmtest`, `sandwich`, `sjPlot`  
+  **Packages used:** `tidyverse`, `dplyr`, `tidyr`, `ggplot2`, `haven`, `car`,`sjPlot`  
   🔗 [View Project]()
 
+- **Fuel Efficiency Analysis Using IEA Data**  
+  Conducted a comparative analysis of fuel efficiency across major car brands (BMW, Mercedes, Audi, Honda, etc.) using data from the International Energy Agency (IEA). Performed data wrangling, visualization, and summary statistics to assess performance and sustainability trends.
+Packages used: dplyr, readr, ggplot2, forcats, scales
+🔗 [View Project]
 
-  
-### 🔵 Excel Projects
-- **x**  
-  .  
+#  🟠 Excel Sales Report – Honor Assignment
+## 🧾 Overview: 
+This is the final **Honor Assignment** for the **"Work Smarter with Excel"** certification course by **Microsoft** on Coursera.
+In this project, I have created a sales report from raw data using Excel features. The assignment simulates a real-world business case to demonstrate data analysis, visualization, and report automation skills.
+
+## ✅ Key Tasks Performed
+- Organized sales data by month and region
+- Calculated commissions using IF logic and named ranges
+- Created region-specific sheets (North, South, East, West)
+- Applied conditional formatting to highlight top 5 sales
+- Used `SUMIF` to calculate totals per employee
+- Built a PivotTable and interactive slicers in Sales Analysis sheet
+- Imported and transformed CSV data (New Staff)
+- Designed a dashboard-style Cover Sheet with hyperlinks
+- Added a formatted chart with sales vs. commission data
+--- 
   🔗 [View File]
 
-- **x**  
-  .  
-  🔗 [View File]
+### 🟡MS Power BI Projects
+- **Sales & Customer Insights Dashboard**  
+  Visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
+  🔗 [View Report](./Power%20BI%202.pdf)
 
-### 🟡 Power BI Projects
-- **x**  
-  x  
-  🔗 [View Project]
+- **Marketing Performance by Region & Platform**  
+  Analyzed leads by month, region, and social media platform. Applied filtering, sorting, and matrix visuals to track campaign effectiveness.  
+  🔗 [View Report](./Sorting&Filtering%20Power%20BI.pdf)
 
-- **x**  
- x
-  🔗 [View Project]
-
-### 🟣Structured Query Language (SQL) Projects 
- x
-  🔗 [View Project]
   
+
+### 🟣 SQL for Data Science – USDA Agricultural Data Insights
+In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
+Performed tasks: 
+- Queried total milk, cheese, coffee, honey, and yogurt production by year and state  
+- Used `JOIN`, `WHERE`, `IN`, `GROUP BY`, and `CAST` clauses to handle multi-table queries  
+- Identified production gaps and regional differences  
+- Applied filtering logic to support decision-making in agricultural departments
+
+🔗 [View Project Report](./SQL_for_Data_Science_Project.pdf)  
 ---
 
 ## 📚 Published Articles
