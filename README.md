@@ -14,21 +14,21 @@
   • Cleaned and structured the data using `dplyr`, `tidyr`, and `readr`  
   • Performed t-tests and multivariate linear regression to identify satisfaction patterns  
   • Visualized insights with `ggplot2`, and wrapped the workflow using `broom`, `car`, and `psych`  
-  🔗 [View Project]
+  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Ryanair%20Customer%20Satisfaction%20Report.pdf)
 
 - **Unraveling Life Satisfaction in Türkiye**  
   This study focuses on identifying the key determinants of life satisfaction in Türkiye using data from the World Values Survey.  
   • Filtered and cleaned Türkiye’s sample using `haven`, `labelled`, and `tidyverse`  
   • Built multivariate regression models to analyze the impact of variables like income, education, and institutional trust  
   • Visualized findings using `sjPlot` and `ggplot2`  
-  🔗 [View Project]
+  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
 
 - **Fuel Efficiency Analysis Using IEA Data**  
   In this assignment, I worked with fuel efficiency data from the International Energy Agency to compare performance across top car brands.  
   • Analyzed consumption patterns for brands like BMW, Mercedes, Audi, and Honda  
   • Cleaned and transformed data using `dplyr`, `readr`, and `janitor`  
   • Created comparative visuals using `ggplot2`, enhanced with `forcats` and `scales`  
-  🔗 [View Project]
+  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Fuel%20Efficiency%20Report.pdf)
 
 
 ### 🟠 Excel Sales Report – Honor Assignment  
@@ -38,7 +38,7 @@ Created a complete sales report from raw data, simulating a real-world business 
 - Built region-specific sheets and applied conditional formatting  
 - Designed PivotTables with slicers and a dashboard-style cover sheet  
 - Imported external CSV data and built interactive reports
-🔗 [View Report](your-report-link)
+🔗 [View Report](https://docs.google.com/spreadsheets/d/1FR9UlI07r4gYtkfnmj8AmjszBpjlUIyb9mAIMVS1m6w/edit?usp=sharing))
 ---
 
 ### 🟡MS Power BI Projects
@@ -67,17 +67,18 @@ Performed tasks:
 
 - **"Unraveling Life Satisfaction in Türkiye: A Multifaceted Analysis of Individual and Societal Factors"**  
   *10th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
-  🔗 [Read Article](https://doi.org/10.xxxxx/jia2024)
+  🔗 [Read Article][(https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
 
 - **"Realpolitik Altered the Course: Changing Foreign Policy Preferences and Public Opinion in Sweden and Finland Due to the Russian Invasion of Ukraine"**  
   *9th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
-  🔗 [Read Article](https://doi.org/10.xxxxx/ppq2023)
+  🔗 [Read Article](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Realpolitik%20Altered%20the%20Course.pdf))
 
 ---
 
 ## 🌱 Currently Working On
 
 - Master’s thesis exposé: **China's Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments**
+-  🔗 [View Exposé](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/China's%20Digital%20Silk%20Road%20Investments%20%E2%80%94%20Impacts%20on%20Turkey%E2%80%99s%20Cybersecurity%20and%20NATO%20Commitments.pdf)
 
 ---
 
@@ -89,9 +90,13 @@ Performed tasks:
 
 - **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
   Applied DAX, Power Query, and dashboard design for business insights.
+  🔗 [View Certificate]( https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Power%20BI%20Certificate.pdf)
+ 
 
 - **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis (Coursera)  
   Practiced real SQL queries involving filtering, aggregation, and joins across complex datasets.
+   🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf))
+ 
 
 - **[Quantitative Research Methods](https://www.uni-koeln.de/)** – University of Cologne  
   Focused on hypothesis testing, statistical analysis with R, and methods like T-tests, regression (logistic & multivariate), Chi-Square, and ANOVA.
