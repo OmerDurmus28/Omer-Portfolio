@@ -85,6 +85,7 @@ Performed tasks:
 
 - **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – Microsoft (Coursera)  
   Mastered advanced functions, data analysis tools, and automation techniques.
+  🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Excel%20Certificate.pdf)
 
 - **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
   Applied DAX, Power Query, and dashboard design for business insights.
