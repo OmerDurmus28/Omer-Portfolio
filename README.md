@@ -79,7 +79,6 @@ Performed tasks:
 
 - Master’s thesis exposé: **China's Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments**
 -  🔗 [View Exposé](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/China's%20Digital%20Silk%20Road%20Investments%20%E2%80%94%20Impacts%20on%20Turkey%E2%80%99s%20Cybersecurity%20and%20NATO%20Commitments.pdf)
-
 ---
 
 ## 🧾 Qualifications and Certifications
