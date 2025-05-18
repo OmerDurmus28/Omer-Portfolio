@@ -38,17 +38,17 @@ Created a complete sales report from raw data, simulating a real-world business 
 - Built region-specific sheets and applied conditional formatting  
 - Designed PivotTables with slicers and a dashboard-style cover sheet  
 - Imported external CSV data and built interactive reports
-🔗 [View Report](https://docs.google.com/spreadsheets/d/1FR9UlI07r4gYtkfnmj8AmjszBpjlUIyb9mAIMVS1m6w/edit?usp=sharing))
+🔗 [View Project](https://docs.google.com/spreadsheets/d/1FR9UlI07r4gYtkfnmj8AmjszBpjlUIyb9mAIMVS1m6w/edit?usp=sharing)
 ---
 
 ### 🟡MS Power BI Projects
 - **Sales & Customer Insights Dashboard**  
 In this anaylsis, I visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
-  🔗 [View Report](./Power%20BI%202.pdf)
+  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%202.pdf)
 
 - **Marketing Performance by Region & Platform**  
   This project presents an analysis of leads by month, region, and social media platform along with filtering, sorting, and matrix visuals to track campaign effectiveness.  
-  🔗 [View Report](./Sorting&Filtering%20Power%20BI.pdf)
+  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%201.pdf)
 
 ---
 ### 🟣 SQL for Data Science – USDA Agricultural Data Insights
@@ -59,7 +59,7 @@ Performed tasks:
 - Identified production gaps and regional differences  
 - Applied filtering logic to support decision-making in agricultural departments
 
- 🔗 [View Report](your-report-link)
+ 🔗 [View Projecct](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/SQL_for_Data_Science_Project.pdf))
 
 ---
 
