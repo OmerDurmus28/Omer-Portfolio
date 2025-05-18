@@ -95,7 +95,7 @@ Performed tasks:
 
 - **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis (Coursera)  
   Practiced real SQL queries involving filtering, aggregation, and joins across complex datasets.
-   🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf))
+   🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
  
 
 - **[Quantitative Research Methods](https://www.uni-koeln.de/)** – University of Cologne  
