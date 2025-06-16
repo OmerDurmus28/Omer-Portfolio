@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ömer Faruk Durmuş  
-**M.A. Student in Political Science | Data Analyst in Social Sciences | R | SQL | Excel | Power BI**
+**M.A. Student in Political Science | Data Analyst in Social Sciences 
 
 Welcome to my GitHub portfolio!  
 Here you’ll find a curated collection of my work that blends **qualitative and quantitative research ** with **real-world data analysis**. My goal is to generate insights that matter — whether in academia, public policy, or business environments. I specialize in working with social science datasets using R, SQL, Power BI, and Excel.
