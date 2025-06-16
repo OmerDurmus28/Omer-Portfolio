@@ -115,13 +115,7 @@ Simulated a company-wide sales performance report from raw data.
   API/web scraping, visual storytelling, R Markdown, `tidyverse`.
 
 ---
+## 🤳 Connect with Me
 
-## 🤝 Connect with Me
+[LinkedIn Profile](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
-
----
-
-<!--
-**OmerDurmus28/OmerDurmus28** is a 📁 GitHub repo showcasing data-centric work at the intersection of political science and analytics.
--->
