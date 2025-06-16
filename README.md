@@ -1,117 +1,127 @@
-# Hi, I'm Ömer!  
-**M.A. Student in Political Science | Data Analysis Enthusiast 👨‍💻**  
+# 👋 Hi, I'm Ömer Faruk Durmuş  
+**M.A. Student in Political Science | Data Analyst in Social Sciences | R | SQL | Excel | Power BI**
 
-🔍 Welcome to my GitHub portfolio, where I share academic and practical work in **data analysis**, **visualization**, and **social science research**.
+Welcome to my GitHub portfolio!  
+Here you’ll find a curated collection of my work that blends **qualitative and quantitative research ** with **real-world data analysis**. My goal is to generate insights that matter — whether in academia, public policy, or business environments. I specialize in working with social science datasets using R, SQL, Power BI, and Excel.
 
 ---
 
-## 📊 Data Projects
+## 📊 Data Analytics Projects
 
-### 🟢 R Studio Projects
+### 🟢 R Projects
 
-- **Exploratory Data Analysis on Ryanair Flight Reviews**  
-  In this project, I explored customer review data from Ryanair to understand what drives passenger satisfaction.  
-  • Cleaned and structured the data using `dplyr`, `tidyr`, and `readr`  
-  • Performed t-tests and multivariate linear regression to identify satisfaction patterns  
-  • Visualized insights with `ggplot2`, and wrapped the workflow using `broom`, `car`, and `psych`  
-  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Ryanair%20Customer%20Satisfaction%20Report.pdf)
+#### ✈️ Ryanair Customer Satisfaction Analysis  
+Analyzed online reviews to identify patterns of satisfaction among Ryanair passengers.  
+**Objective:** Understand factors that significantly affect customer satisfaction.  
+**Methods:**  
+- Data cleaning with `dplyr`, `tidyr`, and `readr`  
+- Applied **t-tests** and **multivariate regression**  
+- Visualized results using `ggplot2`, structured with `broom`, `car`, `psych`  
+**Key Finding:** Flight delays and cabin crew behavior were statistically significant in predicting satisfaction.  
+🔗 [Read Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Ryanair%20Customer%20Satisfaction%20Report.pdf)
+
+#### 😊 Life Satisfaction in Türkiye (World Values Survey)  
+**Objective:** Investigate determinants of life satisfaction in Türkiye using WVS data.  
+**Methods:**  
+- Subset and labeled WVS Türkiye sample with `haven`, `labelled`, and `tidyverse`  
+- Built multivariate regression models on income, education, trust in institutions  
+- Visualized with `sjPlot` and `ggplot2`  
+**Key Finding:** Trust in government and economic status were the most robust predictors of life satisfaction.  
+🔗 [Read Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
+
+#### 🚗 Fuel Efficiency Analysis (IEA Data)  
+**Objective:** Compare average fuel consumption across leading car brands.  
+**Methods:**  
+- Transformed data with `janitor`, `readr`, `dplyr`  
+- Comparative visualization using `ggplot2`, `scales`, and `forcats`  
+**Key Finding:** Japanese brands outperformed in efficiency, with consistent outliers among luxury brands.  
+🔗 [Read Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Fuel%20Efficiency%20Report.pdf)
+
+---
+
+### 🟠 Excel: Sales Report & Dashboard  
+**Course:** *Work Smarter with Excel* (Microsoft - Coursera)  
+Simulated a company-wide sales performance report from raw data.  
+- Used formulas (`IF`, `SUMIF`, named ranges) for calculations  
+- Created dynamic PivotTables with slicers  
+- Designed an interactive dashboard with conditional formatting and external data sources  
+🔗 [View Project](https://docs.google.com/spreadsheets/d/1FR9UlI07r4gYtkfnmj8AmjszBpjlUIyb9mAIMVS1m6w/edit?usp=sharing)
+
+---
+
+### 🟡 Power BI Dashboards
+
+#### 📈 Sales & Customer Insights  
+**Objective:** Understand top-selling products, age profiles, and regional trends.  
+- Used Funnel, Histogram, and Scatter visuals  
+- Built interactive filters for city and customer groups  
+🔗 [View Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%202.pdf)
+
+#### 📊 Marketing Performance by Region & Platform  
+**Objective:** Analyze leads, conversions, and regional campaign performance.  
+- Applied filtering/sorting logic  
+- Visualized platform-wise trends and lead conversion paths  
+🔗 [View Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%201.pdf)
+
+---
+
+### 🟣 SQL Project: USDA Agricultural Data Analysis  
+**Objective:** Extract insights from USDA production data (milk, cheese, coffee, etc.)  
+**Methods:**  
+- Queried multi-table data using `JOIN`, `GROUP BY`, `CAST`, `WHERE`, `IN`  
+- Conducted year-over-year and state-level comparisons  
+- Identified production trends and anomalies  
+🔗 [Read Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/SQL_for_Data_Science_Project.pdf)
+
+---
+
+## 📄 Published Papers & Conference Presentations
 
 - **Unraveling Life Satisfaction in Türkiye**  
-  This study focuses on identifying the key determinants of life satisfaction in Türkiye using data from the World Values Survey.  
-  • Filtered and cleaned Türkiye’s sample using `haven`, `labelled`, and `tidyverse`  
-  • Built multivariate regression models to analyze the impact of variables like income, education, and institutional trust  
-  • Visualized findings using `sjPlot` and `ggplot2`  
-  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
+  *10th 360° With Youth International Congress, Manisa Celal Bayar University*  
+  🔗 [Read Paper](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
 
-- **Fuel Efficiency Analysis Using IEA Data**  
-  In this assignment, I worked with fuel efficiency data from the International Energy Agency to compare performance across top car brands.  
-  • Analyzed consumption patterns for brands like BMW, Mercedes, Audi, and Honda  
-  • Cleaned and transformed data using `dplyr`, `readr`, and `janitor`  
-  • Created comparative visuals using `ggplot2`, enhanced with `forcats` and `scales`  
-  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Fuel%20Efficiency%20Report.pdf)
-
-
-### 🟠 Excel Sales Report – Honor Assignment  
-**Course:** Work Smarter with Excel by Microsoft (Coursera)  
-Created a complete sales report from raw data, simulating a real-world business scenario.  
-- Used IF logic, named ranges, and `SUMIF` to calculate commissions  
-- Built region-specific sheets and applied conditional formatting  
-- Designed PivotTables with slicers and a dashboard-style cover sheet  
-- Imported external CSV data and built interactive reports
-🔗 [View Project](https://docs.google.com/spreadsheets/d/1FR9UlI07r4gYtkfnmj8AmjszBpjlUIyb9mAIMVS1m6w/edit?usp=sharing)
----
-
-### 🟡MS Power BI Projects
-- **Sales & Customer Insights Dashboard**  
-In this anaylsis, I visualized top-selling products, customer age distribution, and sales performance by city using Funnel, Histogram, and Scatter Plot visuals.  
-  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%202.pdf)
-
-- **Marketing Performance by Region & Platform**  
-  This project presents an analysis of leads by month, region, and social media platform along with filtering, sorting, and matrix visuals to track campaign effectiveness.  
-  🔗 [View Project](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Power%20BI%201.pdf)
-
----
-### 🟣 SQL for Data Science – USDA Agricultural Data Insights
-In this project, I worked with open datasets from the U.S. Department of Agriculture to extract actionable insights using SQL. I answered analytical questions using DQL, DDL, and DML statements.
-Performed tasks: 
-- Queried total milk, cheese, coffee, honey, and yogurt production by year and state  
-- Used JOIN, WHERE, IN, GROUP BY, and CAST clauses to handle multi-table queries  
-- Identified production gaps and regional differences  
-- Applied filtering logic to support decision-making in agricultural departments
-
- 🔗 [View Projecct](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/SQL_for_Data_Science_Project.pdf))
+- **Realpolitik Altered the Course: Public Opinion & NATO Bids in Sweden/Finland**  
+  *9th 360° With Youth International Congress*  
+  🔗 [Read Paper](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Realpolitik%20Altered%20the%20Course.pdf)
 
 ---
 
-## 📚 Published Articles
+## 🧪 Currently Working On
 
-- **"Unraveling Life Satisfaction in Türkiye: A Multifaceted Analysis of Individual and Societal Factors"**  
-  *10th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
-  🔗 [Read Article][(https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
-
-- **"Realpolitik Altered the Course: Changing Foreign Policy Preferences and Public Opinion in Sweden and Finland Due to the Russian Invasion of Ukraine"**  
-  *9th 360° With Youth International Student Congress, Manisa Celal Bayar University*  
-  🔗 [Read Article](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Realpolitik%20Altered%20the%20Course.pdf))
+- 🧠 **Master’s Thesis Exposé:** *China’s Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments*  
+  🔗 [View Document](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/China's%20Digital%20Silk%20Road%20Investments%20%E2%80%94%20Impacts%20on%20Turkey%E2%80%99s%20Cybersecurity%20and%20NATO%20Commitments.pdf)
 
 ---
 
-## 🌱 Currently Working On
-
-- Master’s thesis exposé: **China's Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments**
--  🔗 [View Exposé](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/China's%20Digital%20Silk%20Road%20Investments%20%E2%80%94%20Impacts%20on%20Turkey%E2%80%99s%20Cybersecurity%20and%20NATO%20Commitments.pdf)
----
-
-## 🧾 Qualifications and Certifications
+## 📜 Certifications & Academic Training
 
 - **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – Microsoft (Coursera)  
-  Mastered advanced functions, data analysis tools, and automation techniques.
-  🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Excel%20Certificate.pdf)
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Excel%20Certificate.pdf)
 
-- **[Data Analysis and Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
-  Applied DAX, Power Query, and dashboard design for business insights.
-  🔗 [View Certificate]( https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Power%20BI%20Certificate.pdf)
- 
+- **[Data Analysis & Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Power%20BI%20Certificate.pdf)
 
-- **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis (Coursera)  
-  Practiced real SQL queries involving filtering, aggregation, and joins across complex datasets.
-   🔗 [View Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
- 
+- **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis  
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
 
-- **[Quantitative Research Methods](https://www.uni-koeln.de/)** – University of Cologne  
-  Focused on hypothesis testing, statistical analysis with R, and methods like T-tests, regression (logistic & multivariate), Chi-Square, and ANOVA.
+- **Quantitative Research Methods** – University of Cologne  
+  Focus on hypothesis testing, regression, chi-square, ANOVA with R.
 
-- **[Programming for Data Analytics (RStudio)](https://www.uni-koeln.de/)** – University of Cologne  
-  This course provided an extensive insights and practical skills on data manipulation, visualization, and reproducible workflows using `ggplot2`, `dplyr`.
+- **Programming for Data Analytics (R)** – University of Cologne  
+  Hands-on experience with `ggplot2`, `dplyr`, and tidy data workflows.
 
-- **[Data Management and Visualization (RStudio)](https://www.uni-koeln.de/)** – University of Cologne  
-  This seminar primarily focused on data cleaning, tidyverse tools, visual storytelling, API & Web scraping, and R Markdown reporting.
+- **Data Management & Visualization** – University of Cologne  
+  API/web scraping, visual storytelling, R Markdown, `tidyverse`.
 
+---
 
-## 🤳 Connect with Me
+## 🤝 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/%C3%B6mer-faruk-durmu%C5%9F-6420a6225/)
 
-<br/><br/>
+---
+
 <!--
-**OmerDurmus28/OmerDurmus28** is a ✨ highlighted ✨ repo showcasing my academic and analytical work.
+**OmerDurmus28/OmerDurmus28** is a 📁 GitHub repo showcasing data-centric work at the intersection of political science and analytics.
 -->
