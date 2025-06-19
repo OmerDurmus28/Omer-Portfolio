@@ -24,9 +24,9 @@ Analyzed online reviews to identify patterns of satisfaction among Ryanair passe
 **Objective:** Investigate determinants of life satisfaction in Türkiye using WVS data.  
 **Methods:**  
 - Subset and labeled WVS Türkiye sample with `haven`, `labelled`, and `tidyverse`  
-- Built multivariate regression models on income, education, trust in institutions  
+- Built multivariate regression models on dependent and independent variables; health, income, education, trust in institutions  
 - Visualized with `sjPlot` and `ggplot2`  
-**Key Finding:** Trust in government and economic status were the most robust predictors of life satisfaction.  
+**Key Finding:** Health and economic status were the most robust predictors of life satisfaction.  
 🔗 [Read Report](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
 
 #### 🚗 Fuel Efficiency Analysis (IEA Data)  
@@ -50,7 +50,6 @@ Simulated a company-wide sales performance report from raw data.
 ---
 
 ### 🟡 Power BI Dashboards
-
 #### 📈 Sales & Customer Insights  
 **Objective:** Understand top-selling products, age profiles, and regional trends.  
 - Used Funnel, Histogram, and Scatter visuals  
