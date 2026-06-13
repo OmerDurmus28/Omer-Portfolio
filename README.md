@@ -91,6 +91,9 @@ Simulated a company-wide sales performance report from raw data.
 
 ## 📜 Certifications & Academic Training
 
+- **[Datenanalyse mit Power BI](https://www.gfu.net/...)** – GFU Cyrus AG, Köln  
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/PowerBI_GFU_Datenanalyse_2025)
+
 - **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – Microsoft (Coursera)  
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Excel%20Certificate.pdf)
 
