@@ -92,13 +92,13 @@ Simulated a company-wide sales performance report from raw data.
 ## 📜 Certifications & Academic Training
 
 - **[Datenanalyse mit Power BI](https://www.gfu.net/...)** – GFU Cyrus AG, Köln  
-  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/PowerBI_GFU_Datenanalyse_2025)
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/PowerBI_GFU_Datenanalyse_2025.pdf)
+  
+- **[Data Analysis & Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
+  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Power%20BI%20Certificate.pdf)
 
 - **[Work Smarter with Microsoft Excel](https://www.coursera.org/learn/work-smarter-with-microsoft-excel)** – Microsoft (Coursera)  
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Excel%20Certificate.pdf)
-
-- **[Data Analysis & Visualization with Power BI](https://www.coursera.org/learn/data-analysis-visualization-power-bi)** – Microsoft (Coursera)  
-  🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Coursera%20Power%20BI%20Certificate.pdf)
 
 - **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis  
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
