@@ -101,10 +101,10 @@ Simulated a company-wide sales performance report from raw data.
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
 
 - **Quantitative Research Methods** – University of Cologne  
-  Focus on hypothesis testing, regression, chi-square, ANOVA with R.
+  Focused on hypothesis testing, regression, chi-square, ANOVA with R.
 
 - **Programming for Data Analytics (R)** – University of Cologne  
-  Hands-on experience with `ggplot2`, `dplyr`, and tidy data workflows.
+  Experience with `ggplot2`, `dplyr`, and tidy data workflows.
 
 - **Data Management & Visualization** – University of Cologne  
   API/web scraping, visual storytelling, R Markdown, `tidyverse`.
