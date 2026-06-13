@@ -102,9 +102,9 @@ Simulated a company-wide sales performance report from raw data.
 
 - **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis  
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
-  
-  - **Data Visualization with R / ggplot2** – DataCamp  
-  🔗 [Certificate](LINK)
+
+- **Data Visualization with R / ggplot2** – DataCamp  
+🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/DataCamp%20ggplot.pdf)
 
 - **Quantitative Research Methods** – University of Cologne  
   Focused on hypothesis testing, regression, chi-square, ANOVA with R.
@@ -115,6 +115,12 @@ Simulated a company-wide sales performance report from raw data.
 - **Data Management & Visualization** – University of Cologne  
   API/web scraping, visual storytelling, R Markdown, `tidyverse`.
 
+## 🌐 Languages
+
+- **Turkish** – Native  
+- **English** – Fluent  
+- **German** –  Professional working proficiency  
+  🔗 [TELC Deutsch B2 Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/TELC%20Deutsch%20B2.pdf)
 ---
 ## 🤳 Connect with Me
 
