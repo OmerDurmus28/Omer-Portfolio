@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Ömer Faruk Durmuş  
-M.A. Student in Political Science | Data Analyst in Social Sciences 
+M.Sc. Political Science Graduate Candidate | Data & Digital Analytics
 
-Welcome to my GitHub portfolio!  
-Here you’ll find a curated collection of my work that blends **qualitative and quantitative research ** with **real-world data analysis**. My goal is to generate insights that matter — whether in academia, public policy, or business environments. I specialize in working with social science datasets using R, SQL, Power BI, and Excel.
+Welcome to my GitHub portfolio.
+
+Here you’ll find a curated collection of projects that combine quantitative analysis, qualitative research, and real-world data work. My goal is to turn complex information into clear and useful insights — whether for business, public policy, digital platforms, or research environments.
+
+I work with tools such as Excel, Power BI, SQL, R, and Tableau, with a growing focus on KPI reporting, performance analysis, data quality, and stakeholder-oriented reporting.
 
 ---
 
@@ -81,15 +84,8 @@ Simulated a company-wide sales performance report from raw data.
   🔗 [Read Paper](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Unraveling%20Life%20Satisfaction%20in%20Turkey%20A%20Multifaceted%20Analysis.pdf)
 
 - **Realpolitik Altered the Course: Public Opinion & NATO Bids in Sweden/Finland**  
-  *9th 360° With Youth International Congress*  
+  *9th 360° With Youth International Congress, Manisa Celal Bayar University*  
   🔗 [Read Paper](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/Realpolitik%20Altered%20the%20Course.pdf)
-
----
-
-## 🧪 Currently Working On
-
-- 🧠 **Master’s Thesis Exposé:** *China’s Digital Silk Road Investments — Impacts on Turkey’s Cybersecurity and NATO Commitments*  
-  🔗 [View Document](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/China's%20Digital%20Silk%20Road%20Investments%20%E2%80%94%20Impacts%20on%20Turkey%E2%80%99s%20Cybersecurity%20and%20NATO%20Commitments.pdf)
 
 ---
 
