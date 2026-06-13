@@ -102,6 +102,9 @@ Simulated a company-wide sales performance report from raw data.
 
 - **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)** – University of California, Davis  
   🔗 [Certificate](https://github.com/OmerDurmus28/Omer-Portfolio/blob/main/UC_Davis_SQL.pdf)
+  
+  - **Data Visualization with R / ggplot2** – DataCamp  
+  🔗 [Certificate](LINK)
 
 - **Quantitative Research Methods** – University of Cologne  
   Focused on hypothesis testing, regression, chi-square, ANOVA with R.
